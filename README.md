@@ -17,3 +17,5 @@ Manual or Automatic on
 SOSmart car accident service can be configured in manual mode or automatic mode.
 Automatic mode: Whenever SOSmart detects you are in a moving vehicle, it will automatically turn on the crash detection monitoring, allowing you to absolutelly forget about the app. Recommended for people that frequently travels in a vehicle.
 Manual mode: User must manually turn the monitoring system in the app. Recommended for people who rarely travels in a moving vehicle.
+ 
+  
